@@ -4,6 +4,7 @@ This project considers a dataset consisting of various dog details and performs 
 
 ## Data Wrangling Report
 
+The Data Wrangling Report gives a summary of the analysis performed.
 The ‘WeRateDogs’ Twitter dataset has been wrangled to create a good data source which is clear of all the dataset cleanliness issues and can be understood and directly used for further analysis.<br>
 The steps followed in data wrangling the ‘WeRateDogs’ Twitter dataset are:<br> 
 1)	Gather
